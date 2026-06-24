@@ -13,10 +13,10 @@ theme:
 nav:
   - Home: index.md
   - MPLX Infrastructure:
-      - Overview: mplx/overview.md
-      - Ansible: mplx/ansible.md
-      - Satellite: mplx/satellite.md
+      - Overview: MPLX/overview.md
+      - Ansible: MPLX/ansible.md
+      - Satellite: MPLX/satellite.md
   - Personal:
-      - Career: personal/career.md
-      - Setup: personal/setup.md
-      - Investing: personal/tools.md
+      - Career: Personal/career.md
+      - Setup: Personal/setup.md
+      - Investing: Personal/tools.md
