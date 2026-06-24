@@ -2,16 +2,13 @@
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-## Commands
+# Welcome
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+This is Manny's documentation hub for both infrastructure and personal knowledge.
 
-## Project layout
+## Sections
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- **MPLX Infrastructure** - Metroplex environment documentation
+- **Personal Knowledge** - Career, tools, and investing
+
+Use the navigation on the left to explore.

@@ -1,1 +1,20 @@
-site_name: My Docs
+site_name: Manny's Docs
+repo_url: https://github.com/mabadirwork/mdocs
+docs_dir: docs
+site_dir: site
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+
+nav:
+  - Home: index.md
+  - MPLX Infrastructure:
+      - Overview: mplx/overview.md
+      - Ansible: mplx/ansible.md
+      - Satellite: mplx/satellite.md
+  - Personal:
+      - Career: personal/career.md
+      - Setup: personal/setup.md
+      - Investing: personal/tools.md
