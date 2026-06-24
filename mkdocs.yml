@@ -1,5 +1,6 @@
 site_name: Manny's Docs
 repo_url: https://github.com/mabadirwork/mdocs
+site_url: https://mabadirwork.github.io/mdocs/
 docs_dir: docs
 site_dir: site
 
